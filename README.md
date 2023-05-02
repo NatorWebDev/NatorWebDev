@@ -1,5 +1,5 @@
 
-![banner](https://user-images.githubusercontent.com/126914912/235762498-12e81511-2399-42a9-a7ed-ff94b8b4cf08.png)
+![banner2](https://user-images.githubusercontent.com/126914912/235767845-605a640d-3c37-47d2-be10-6b6fbfa6027d.png)
 # Hi, I am Luis
 
 ### My friends call me Nator
