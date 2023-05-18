@@ -4,6 +4,7 @@
 
 @layer base {
     html {
-      font-family: Verdana, Geneva, Tahoma, sans-serif
+      font-family: Verdana, Geneva, Tahoma, sans-serif;
+      scroll-behavior: smooth;
     }
   }
