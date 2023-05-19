@@ -7,4 +7,7 @@
       font-family: Verdana, Geneva, Tahoma, sans-serif;
       scroll-behavior: smooth;
     }
+    .translate_full{
+      transform: translateY(100%);
+    }
   }
