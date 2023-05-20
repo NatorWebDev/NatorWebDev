@@ -26,10 +26,10 @@ export const HeroSection = ({ show, setShow }) => {
           <h2 className="text-5xl mt-4">Front-End</h2>
           <div className="flex w-full justify-start mt-64 items-center text-xl">
             <div className="bg-secondary px-12 py-4 rounded-xl cursor-pointer transition-all duration-200 hover:bg-primary">
-              See my work
+              <a href="#projects">See my Work</a>
             </div>
             <div className="text-secondary pl-32 cursor-pointer transition-all duration-200 hover:text-primary">
-              Contact
+              <a href="#projects">Contact</a>
             </div>
           </div>
           <div className="pt-32 opacity-75 ">

@@ -7,7 +7,7 @@ const navLinkActiveStyles =
 
 export const NavBar = ({ show }) => {
   return (
-    <ul className="flex w-full h-32 mt-16 fixed top-0 lelt-0 items-center justify-center font-medium">
+    <ul className="flex w-full h-32 mt-16 fixed top-0 lelt-0 items-center justify-center font-medium z-50">
       <li className={show == "1" ? navLinkActiveStyles : navLinkStyles}>
         <a href="#home">Home</a>
       </li>

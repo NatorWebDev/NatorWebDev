@@ -31,9 +31,9 @@ export default {
       }
     },
     screens: {
-      //DEFAULT 1024px first
+      //DEFAULT desktop first
 
-      'xl': {'min' : '1025px'},
+      'lap': {'max' : '1024px'},
       // => @media (min-width: 1025px) { ... }
 
       'tab': {'max' : '768px'},
