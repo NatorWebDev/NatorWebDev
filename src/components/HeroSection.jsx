@@ -14,7 +14,7 @@ export const HeroSection = ({ show, setShow }) => {
   return (
     <section
       id="home"
-      className="w-full h-screen bg-bgColor text-white flex items-center justify-center"
+      className="w-full h-screen bg-bgColor text-white flex items-center justify-center relative z-50"
       ref={ref}
     >
       <NavBar show={show} />
