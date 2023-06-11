@@ -28,6 +28,12 @@ export default {
         '512':'512px',
         '640':'640px',
         '768':'768px'
+      },
+      keyframes:{
+        'slide' : {
+          '0%' : {transform: 'translateX(0)'},
+          '100%' : {transform: 'translateX(-150vw)'}
+        }
       }
     },
     screens: {

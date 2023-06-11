@@ -15,5 +15,19 @@ export const projects = [
         responsiveImg:'',
         description:'',
         url:'',
-    }
+    },
+    {
+        title:'PhotoGalleryNetwork',
+        image: photo1,
+        responsiveImg:'',
+        description:'',
+        url:'https://natorphotogallery.netlify.app/',
+    },
+    {
+        title:'PhotoGalleryNetwork',
+        image: photo1,
+        responsiveImg:'',
+        description:'',
+        url:'https://natorphotogallery.netlify.app/',
+    },
 ]
